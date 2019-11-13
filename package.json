@@ -1,5 +1,5 @@
 {
-  "name": "lib-js-util-currencies",
+  "name": "@bitfinex/lib-js-util-currencies",
   "version": "1.0.0",
   "description": "Currency utils",
   "main": "index.js",
